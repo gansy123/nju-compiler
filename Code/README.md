@@ -1,5 +1,4 @@
 文件结构:
-甘思远_211220080.zip
     Code
         lexical.l
         main.c
